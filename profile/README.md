@@ -1,7 +1,7 @@
 **step-by-step**
 
 ## Url
-url: https://step-by-step.wiki
+**Url: https://www.step-by-step.wiki**
 
 ## Gitbook
 - [Learn Go for yourself](https://go.step-by-step.wiki)
