@@ -5,4 +5,4 @@
 - [Learn Redis for yourself](https://redis.step-by-step.wiki)
 
 ## About me
-**Url: https://www.sai.show/about**
+**Url: https://sai.show/about**
